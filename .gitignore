@@ -1,0 +1,20 @@
+# Build output
+dist/
+build/
+
+# Runtime data
+config.json
+dropbox/
+logs/
+history/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# Misc
+tkdnd/
+*技能.md
